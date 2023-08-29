@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @YaSoares3
 - 👀 Estou interessada em aprender novas linguagens de programação;
-- - 📫 Atualmente, estou cursando o ensino médio;
+- 📫 Atualmente, estou cursando o ensino médio;
 - 🌱 Os projetos aqui realizados, fazem das aulas de pensamento computacional.
 
 
